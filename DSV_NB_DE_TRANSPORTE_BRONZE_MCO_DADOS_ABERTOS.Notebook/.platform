@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "DSV_NB_DE_TRANSPORTE_BRONZE_MCO_DADOS_ABERTOS"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "111d8a09-d50e-b7a2-4dcb-710ddf199553"
+  }
+}
