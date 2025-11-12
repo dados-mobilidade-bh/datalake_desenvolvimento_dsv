@@ -70,6 +70,7 @@ from pyspark.sql.types import StructField, StructType, FloatType, IntegerType, S
 # CELL ********************
 
 caminho_gps = "abfss://0d200be7-7ebd-417e-b638-cc9a8e06bd2b@onelake.dfs.fabric.microsoft.com/51b55ba5-c4df-4551-a4c1-3c7e001f616e/Tables/bilhetagem-tacom-gps_convencional-bronze"
+print("Caminho definido")
 
 # METADATA ********************
 
