@@ -398,21 +398,6 @@ df_gps \
 
 # CELL ********************
 
-df_gps \
-    .write \
-    .format("delta") \
-    .mode("append") \
-    .save(caminho_log)
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
-
-# CELL ********************
-
 print("Tabela Salva")
 
 # METADATA ********************
