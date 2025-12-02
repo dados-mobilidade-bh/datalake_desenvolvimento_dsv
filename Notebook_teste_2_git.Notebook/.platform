@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Notebook",
-    "displayName": "Notebook_teste_git"
+    "displayName": "Notebook_teste_2_git"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "7d753916-cc56-9272-46ad-1366e0ab4148"
+    "logicalId": "678f6f4c-c6a7-bce0-47e7-ebec5d5734dc"
   }
 }
