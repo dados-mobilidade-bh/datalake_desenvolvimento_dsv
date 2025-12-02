@@ -1,0 +1,14 @@
+[
+  {
+    "name": "mco_bronze",
+    "path": "/Tables/bh03",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/dbo/transporte-bh03-mco-bronze",
+        "itemId": "d38ddd19-3076-41b4-8e1b-c4a892045e38",
+        "workspaceId": "0009eafe-0886-46a1-b201-7dcfd0296dcb"
+      }
+    }
+  }
+]

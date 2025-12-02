@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "LKH_DSV_Transporte_Bronze"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f7d16933-b817-b6e2-4ff8-12bd46641a87"
+  }
+}

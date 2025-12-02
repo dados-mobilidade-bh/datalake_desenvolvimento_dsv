@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Lakehouse",
-    "displayName": "LKH_DVS_Bilhetagem_Bronze"
+    "displayName": "LKH_DSV_Bilhetagem_Gold"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "2e2af9c2-9add-b5f8-4ea6-ea33e02ecced"
+    "logicalId": "3d2ae65d-a4a3-ae10-4aca-736b4a0d28a4"
   }
 }
