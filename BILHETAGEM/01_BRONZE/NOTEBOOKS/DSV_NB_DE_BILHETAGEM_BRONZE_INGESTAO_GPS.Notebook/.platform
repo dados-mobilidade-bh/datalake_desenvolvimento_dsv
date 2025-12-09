@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "DSV_NB_DE_BILHETAGEM_BRONZE_INGESTAO_GPS",
+    "description": "Notebook para ingestão dos dados de GPS no ambiente de desenvolvimento"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0c33d0e1-64b8-be63-420c-41e5ee50aea8"
+  }
+}
